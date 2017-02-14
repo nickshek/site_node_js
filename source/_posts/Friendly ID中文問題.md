@@ -1,5 +1,6 @@
 ---
 title: Friendly ID中文問題
+date: 2014-12-20
 categories:
     - rails
 ---

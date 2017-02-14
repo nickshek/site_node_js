@@ -1,9 +1,9 @@
 ---
 title: 用ansible去傳送電子郵件
+date: 2017-01-26
 categories:
     - Ansible
 ---
-{% raw %}
 Ansible在前幾年是一個非常熱門的開源項目，以我理解ansible其中一個功能是可用來部署應用程式，但是我個人覺得部署應用程式暫時有 capistrano或deployer-php也非常足夠，同時部署應用程式於多個伺服器也勝任有餘，總比手動部署來得有效率。
 
 因此比起用Ansible來去試一試寫一個部署scripts，我想使用Ansible試一試一個簡單的例子去在各server 執行一些command (e.g df -h)，再把結果以電子郵件傳送，這樣也可以感受一下Ansible的威力，雖然個人比起編寫yaml (yaml 內或text template 可以使用 jinja2 template language，一個類似Django template engine的template engine)，個人更喜愛寫Ruby 或 PHP scripts 。
@@ -135,4 +135,3 @@ ansible-playbook -i hosts site.yml
 這樣我們便完成了一個好簡單的ansible playbook，這個playbook也有相當多的改進的地方，例如我們都把tasks 都放在site.yml，現在還好，沒有太多tasks。但沒有按roles去把不同的tasks放入去長遠都會有維護上的問題，site.yml愈簡單愈容易維護，另外一個可以改進的地方是lookup時的錯誤處理。
 
 想知道這個project的檔案結構，可參考 (https://github.com/nickshek/ansible_mail_example)[https://github.com/nickshek/ansible_mail_example]
-{% endraw %}

@@ -1,5 +1,6 @@
 ---
 title: 如何令你使用SSH時更安全?
+date: 2015-03-02
 categories:
     - linux
 ---

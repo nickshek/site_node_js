@@ -1,5 +1,6 @@
 ---
-title: debug.py => IndexError: list index out of range
+title: "debug.py => IndexError: list index out of range"
+date: 2015-01-22
 categories:
     - django
 ---

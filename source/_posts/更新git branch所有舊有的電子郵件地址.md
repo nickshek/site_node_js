@@ -1,5 +1,6 @@
 ---
 title: 更新git branch所有舊有的電子郵件地址
+date: 2015-02-24
 categories:
     - git
 ---

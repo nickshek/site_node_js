@@ -1,5 +1,6 @@
 ---
 title: 在ubuntu移除圖片的metadata
+date: 2014-12-07
 categories:
     - ubuntu
 ---

@@ -1,5 +1,6 @@
 ---
 title: 利用regular expression判斷URL是否為YouTube URL，且return youtube video ID
+date: 2014-12-30
 categories:
     - python
 ---

@@ -1,5 +1,6 @@
 ---
-title: TypeError: deepestAncestor is undefined
+title: "TypeError: deepestAncestor is undefined"
+date: 2015-01-18
 categories:
     - react.js
 ---

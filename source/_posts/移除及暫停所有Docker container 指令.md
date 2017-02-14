@@ -1,5 +1,7 @@
 ---
 title: 移除及暫停所有Docker container 指令
+date: 2017-01-12
+slug: 移除及暫停所有Docker container 指令
 categories:
     - Docker
 ---

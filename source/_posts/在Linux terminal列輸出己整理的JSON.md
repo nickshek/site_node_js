@@ -1,5 +1,6 @@
 ---
 title: 在Linux terminal列輸出己整理的JSON
+date: 2015-01-11
 categories:
     - linux
 ---

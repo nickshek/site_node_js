@@ -1,5 +1,6 @@
 ---
 title: Socket.io 1.3.5 cdn 同源問題
+date: 2015-04-15
 categories:
     - socket.io
 ---

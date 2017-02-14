@@ -1,5 +1,6 @@
 ---
 title: redis在socket.io接收多次重覆信息問題
+date: 2015-01-17
 categories:
     - node.js
 ---

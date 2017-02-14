@@ -1,5 +1,6 @@
 ---
 title: 思考在linux一次性重新命名多個file的問題
+date: 2016-10-01
 categories:
     - Linux
 ---

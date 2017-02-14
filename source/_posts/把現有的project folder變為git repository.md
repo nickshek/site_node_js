@@ -1,5 +1,6 @@
 ---
 title: 把現有的project folder變為git repository
+date: 2014-12-15
 categories:
     - git
 ---

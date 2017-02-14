@@ -1,5 +1,6 @@
 ---
 title: 使用sftp時出現"connection reset by peer connection closed"
+date: 2016-06-24
 categories:
     - linux
 ---

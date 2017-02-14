@@ -1,5 +1,6 @@
 ---
 title: 在rails migration改變column type
+date: 2014-11-26
 categories:
     - rails
 ---

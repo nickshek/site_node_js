@@ -1,5 +1,6 @@
 ---
 title: git://github.com/reactjs/react-rails.git (at master) is not yet checked out. Run `bundle install` first.
+date: 2015-01-26
 categories:
     - rails
 ---

@@ -1,5 +1,6 @@
 ---
 title: HKTV 選戰 插曲
+date: 2014-12-10
 categories:
     - HKTV
 ---

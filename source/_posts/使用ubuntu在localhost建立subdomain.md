@@ -1,5 +1,6 @@
 ---
 title: 使用ubuntu在localhost建立subdomain
+date: 2014-11-13
 categories:
     - apache
 

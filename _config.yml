@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Nick Shek's Blog
 subtitle:
 description:
-author: John Doe
-language:
-timezone:
+author: Nick Shek
+language: zh
+timezone: Asia/Hong_Kong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://nickshek.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: b/:name/
 permalink_defaults:
 
 # Directory

@@ -1,5 +1,6 @@
 ---
 title: 如何令git repo 連接己經存在的heroku app?
+date: 2015-04-05
 categories:
     - heroku
 ---

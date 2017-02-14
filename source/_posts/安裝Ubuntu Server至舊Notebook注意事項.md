@@ -1,5 +1,6 @@
 ---
 title: 安裝Ubuntu Server至舊Notebook注意事項
+date: 2016-06-28
 categories:
     - Ubuntu
 ---

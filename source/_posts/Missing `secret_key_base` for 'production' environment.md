@@ -1,5 +1,6 @@
 ---
 title: Missing `secret_key_base` for 'production' environment, set this value in `config/secrets.yml`
+date: 2015-03-14
 categories:
     - rails
 ---

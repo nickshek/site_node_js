@@ -1,5 +1,6 @@
 ---
 title: 將package.json入面所有的dependencies更新至最新版本
+date: 2015-01-16
 categories:
     - node.js
 ---

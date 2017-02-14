@@ -1,5 +1,6 @@
 ---
 title: 學習Latex
+date: 2017-02-06
 categories:
     - Latex
 ---
