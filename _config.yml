@@ -7,7 +7,7 @@ title: Nick Shek's Blog
 subtitle:
 description:
 author: Nick Shek
-language: zh
+language: zh-TW
 timezone: Asia/Hong_Kong
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: simple_journal
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
